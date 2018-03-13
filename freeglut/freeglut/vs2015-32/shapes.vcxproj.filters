@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest\mk\windows\dependencies\src\glut\freeglut\freeglut\progs\demos\shapes\shapes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\mathu\Downloads\zetaglest\mk\windows\dependencies\src\glut\freeglut\freeglut\progs\demos\shapes\glmatrix.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\mathu\Downloads\zetaglest\mk\windows\dependencies\src\glut\freeglut\freeglut\progs\demos\shapes\glmatrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\mathu\Downloads\zetaglest\mk\windows\dependencies\src\glut\freeglut\freeglut\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{93799837-E270-3172-BB6A-BE5B34C8BD02}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2AA51093-06C2-38A0-9330-85B5ACDDFC38}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
